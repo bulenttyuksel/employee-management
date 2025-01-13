@@ -50,7 +50,7 @@ A confirmation prompt appears before deleting the record to prevent accidental d
 
 1. Navigation Menu
 
-A navigation menu allows users to easily switch between pages.
+A navigation menu allows users to switch between pages.
 
 The menu includes options for viewing the employee list and adding a new employee.
 
@@ -66,7 +66,7 @@ Routes:
 
 3. Responsive Design
 
-The application is designed to be fully responsive.
+The application is designed to be fully responsive on mobile / desktop.
 
 4. State Management
 
@@ -130,17 +130,9 @@ Prettier & ESLint: For code formatting and linting.
 
 No backend is integrated; data persistence is limited to localStorage.
 
-The search functionality only supports basic keyword matching.
+No search functionality.
 
-## Future Improvements
-
-Add unit tests with a minimum coverage ratio of 85%.
-
-Improve the search functionality to support advanced filtering.
-
-Integrate a backend service for better data management.
-
-Implement user authentication for better security.
+No unit tests.
 
 ## Author
 
