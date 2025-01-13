@@ -45,7 +45,7 @@ export const translations = {
         deleteEmployee: 'Çalışanı Sil',
         proceed: 'Devam Et',
         cancel: 'Kapat',
-        employees: 'Personeller',
+        employees: 'Çalışanlar',
         addNew: 'Yeni Ekle',
         employeeList: 'Çalışan Listesi',
         firstName: 'Ad',
