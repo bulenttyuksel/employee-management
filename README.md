@@ -85,6 +85,7 @@ The application reads the language setting from localStorage.
 - Clone the repository:
 
 git clone https://github.com/bulenttyuksel/employee-management.git
+
 cd employee-management
 
 - Install dependencies:
