@@ -82,6 +82,8 @@ The application reads the language setting from localStorage.
 
 ## Installation Instructions
 
+* Supported Node.js versions: 18.13.0 - 22.13.0
+
 - Clone the repository:
 
 git clone https://github.com/bulenttyuksel/employee-management.git
