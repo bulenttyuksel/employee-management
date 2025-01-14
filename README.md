@@ -80,9 +80,11 @@ Supports Turkish and English languages.
 
 The application reads the language setting from localStorage.
 
-## Installation Instructions
+## Prerequisites
 
-* Supported Node.js versions: 18.13.0 - 22.13.0
+- Supported Node.js versions: 18.13.0 - 22.13.0
+
+## Installation Instructions
 
 - Clone the repository:
 
